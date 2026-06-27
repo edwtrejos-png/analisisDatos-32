@@ -10,10 +10,11 @@ git pull origin main
 git status
 
 --agregar cambios
-git add /README.md
+git add /README.md   ( git add /.)
 
 --crear commit
 git commit -m "pequeña descripcion"
 
 --empujar el cambio
+git push origin main
 
