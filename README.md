@@ -1,24 +1,15 @@
-# data-test
-Repositorio de prueba  2 - data engineer 32a
-Demo de lo visto hasta hoy
+# Comandos para git
+# 29/06/2026
+# Sesion 4
 
-
---jalar los cambios
+1. Jalar la rama origen
 git pull origin main
 
---estado de cambios
+2.Obtener el estado actual
 git status
 
---agregar cambios
-git add /README.md   ( git add /.)
+3.Agregar Cambios
+git add .
 
---crear commit
-git commit -m "pequeña descripcion"
-
---empujar el cambio
-git push origin main
-
-nuevo
-
-
-
+4.Crear commit
+git commit -m "
